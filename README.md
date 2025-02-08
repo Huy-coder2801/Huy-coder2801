@@ -29,7 +29,7 @@ I'm a **Data Scientist** passionate about applying **Machine Learning (ML) and D
 - Built workflows to extract and process daily data for **ML-based lead scoring**.
 - Deployed a **web application on Amazon EC2** for visualization & interaction.
 
-📌 **Repo**: [Customer Scoring System](https://github.com/dnd26/HE-THONG-CHAM-DIEM-KHACH-HANG-TIEM-NANG)
+📌 **Repo**: [Customer Scoring System](https://github.com/Huy-coder2801/DP_project)
 
 ## 🛠 Tech Stack & Skills
 
